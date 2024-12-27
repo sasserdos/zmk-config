@@ -166,10 +166,10 @@
             // | GUI | CTRL | SHFT | LWR | SPC |   | ENT | RSE  | BKSP | ALT | ESC |
 
             bindings = <
-&kp TAB    &kp Q       &kp W           &kp F             &kp P        &kp B            &kp J    &kp L        &kp U        &kp Y       &kp SEMICOLON  &kp BACKSPACE
-&kp LSHFT  &hm LGUI A  &hm LEFT_ALT R  &hm LEFT_SHIFT S  &hm LCTRL T  &kp G            &kp M    &hm RCTRL N  &hm RSHFT E  &hm RALT I  &kp O          &kp SQT
-&kp LCTRL  &kp Z       &kp X           &kp C             &kp D        &kp V            &kp K    &kp H        &kp COMMA    &kp DOT     &kp FSLH       &kp RSHFT
-                                       &kp TAB           &lt 1 SPACE  &kp BACKSPACE    &kp RET  &lt 2 SPACE  &kp CAPS
+&kp TAB    &kp Q       &kp W           &kp F             &kp P            &kp B        &kp J    &kp L        &kp U        &kp Y       &kp SEMICOLON  &kp BACKSPACE
+&kp LSHFT  &hm LGUI A  &hm LEFT_ALT R  &hm LEFT_SHIFT S  &hm LCTRL T      &kp G        &kp M    &hm RCTRL N  &hm RSHFT E  &hm RALT I  &kp O          &kp SQT
+&kp LCTRL  &kp Z       &kp X           &kp C             &kp D            &kp V        &kp K    &kp H        &kp COMMA    &kp DOT     &kp FSLH       &kp RSHFT
+                                       &kp TAB           &lt 1 BACKSPACE  &kp SPACE    &kp RET  &lt 2 SPACE  &kp CAPS
             >;
         };
 
